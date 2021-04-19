@@ -1,2 +1,2 @@
 # .NetCore
-Explorando o .NetCore (crud)
+Explorando o .NetCore (CRUD)
